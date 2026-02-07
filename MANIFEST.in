@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include django_ng_locations/fixtures *.json
+recursive-include django_ng_locations/management *.py
+
